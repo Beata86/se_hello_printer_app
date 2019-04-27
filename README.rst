@@ -1,10 +1,8 @@
 .. image:: https://travis-ci.org/Beata86/se_hello_printer_app.svg?branch=master
     :target: https://travis-ci.org/Beata86/se_hello_printer_app
 
-.. image:: https://app.statuscake.com/button/index.php?Track=4018796&Days=1&Design=2
+.. image:: https://app.statuscake.com/button/index.php?Track=4018796&Days=1&Design=6
     :target: https://www.statuscake.com
-
-![App status](https://app.statuscake.com/button/index.php?Track=4018796&Days=1&Design=2)
 
 Simple Flask App
 ================
