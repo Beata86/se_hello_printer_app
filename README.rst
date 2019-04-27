@@ -1,3 +1,8 @@
+.. image:: https://travis-ci.org/Beata86/se_hello_printer_app.svg?branch=master
+    :target: https://travis-ci.org/Beata86/se_hello_printer_app
+
+<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=4018796&Days=1&Design=2" /></a>
+
 Simple Flask App
 ================
 
@@ -108,8 +113,3 @@ Materiały
 =========
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
-
-On featureBranch
-
-.. image:: https://travis-ci.org/Beata86/se_hello_printer_app.svg?branch=master
-    :target: https://travis-ci.org/Beata86/se_hello_printer_app
